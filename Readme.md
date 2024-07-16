@@ -23,7 +23,7 @@ Welcome to the 45 Days Coding Challenge! This challenge is designed to help me t
 
 ## Connect with Me
 
--[LeetCode](https://leetcode.com/u/tanishqdublish)
+**LeetCode ID** -[Tanishq Dublish](https://leetcode.com/u/tanishqdublish)
 
 Feel free to follow my journey and review my solutions. If you have any questions or suggestions, please reach out to me.
 
