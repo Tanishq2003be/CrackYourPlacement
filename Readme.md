@@ -24,6 +24,7 @@ Welcome to the 45 Days Coding Challenge! This challenge is designed to help me t
 ## Connect with Me
 
 **LeetCode ID** -[Tanishq Dublish](https://leetcode.com/u/tanishqdublish)
+**GFG ID** -[Tanishq Dublish](https://www.geeksforgeeks.org/user/tanishqduu6sy)
 
 Feel free to follow my journey and review my solutions. If you have any questions or suggestions, please reach out to me.
 
